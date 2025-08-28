@@ -11,10 +11,10 @@ This is the release page for the Ezurio [RS26x][RS26x product brief] product fam
 
 Repository Releases include the following files.
 
-| File Name               | Description                                                         |
-|-------------------------|---------------------------------------------------------------------|
-| Actility.js             | Downlink Encoder and Uplink Decoder with commented JavaScript code. |
-| Actility_Uncommented.js | Downlink Encoder and Uplink Decoder with comments removed.          |
+| File Name                     | Description                                                         |
+|-------------------------------|---------------------------------------------------------------------|
+| RS26x_Actility.js             | Downlink Encoder and Uplink Decoder with commented JavaScript code. |
+| RS26x_Actility_Uncommented.js | Downlink Encoder and Uplink Decoder with comments removed.          |
 
 Uncommented files are intended for integration within Actility. Commented versions are provided for developer reference. A character count limitation enforced by Actility results in file size needing to be minimized, with comments being included in the character count.
 
